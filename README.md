@@ -1,16 +1,21 @@
 ## Hi there 👋
+I'm Abdellah , a Web developer based in Algeria .
 
-<!--
-**Abdellahsmida/Abdellahsmida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create whatever design i can think about .
 
-Here are some ideas to get you started:
+I can speak :
+- Arabic 
+- English
+- a bit of French
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The programming languages that i currently know : C , HTML , CSS 
+
+In the future there will be more projects that i can show in my github account .
+
+I’m currently learning :
+- Front-end which i finished HTML and CSS and now i'm on my journey with JS , and when i finish it i'll continure with Back-end . 
+  
+Fun Facts :
+- i like cats .
+- i like watching movies and series which my favorite is between Freinds and the Office .
+- i like to play alot of games .
