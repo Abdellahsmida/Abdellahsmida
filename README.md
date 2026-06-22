@@ -16,6 +16,6 @@ I’m currently learning :
 - Front-end which i finished HTML and CSS and now i'm on my journey with JS , and when i finish it i'll continure with Back-end . 
   
 Fun Facts :
-- :cat2: i like cats .
-- :eyes: i like watching movies and series which my favorite is between Freinds and the Office .
-- 🎮 i like to play alot of games .
+- :cat2: i love cats .
+- :eyes: my favorite two series are "Friends" and "The Office" .
+- 🎮 i play a lot of video games .
