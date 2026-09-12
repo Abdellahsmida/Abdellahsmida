@@ -8,12 +8,12 @@ I can speak :
 - English
 - a bit of French
 
-The programming languages that i currently know : C , HTML , CSS 
+The programming languages that i currently know : C , HTML , CSS , JS 
 
 In the future there will be more projects that i can show in my github account .
 
 I’m currently learning :
-- Front-end which i finished HTML and CSS and now i'm on my journey with JS , and when i finish it i'll continure with Back-end . 
+- Front-end which i finished HTML and CSS and now i'm on my journey with JS , and when i finish it i'll continue with Back-end . 
   
 Fun Facts :
 - :cat2: i love cats .
