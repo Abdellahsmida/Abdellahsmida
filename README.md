@@ -8,7 +8,7 @@ I can speak :
 - English
 - a bit of French
 
-The programming languages that i currently know : C , HTML , CSS , JS 
+The programming languages that i currently know : C , JAVA , HTML , CSS , JS 
 
 In the future there will be more projects that i can show in my github account .
 
