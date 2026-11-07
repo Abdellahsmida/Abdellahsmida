@@ -18,8 +18,6 @@ I can speak :
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <br />
 
-
-
 In the future there will be more projects that i can show in my github account .
 
 I’m currently learning :
